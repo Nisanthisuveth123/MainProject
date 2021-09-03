@@ -1,0 +1,3 @@
+com\hotel\booking\config\webConfig.class
+com\hotel\booking\controller\HomeController.class
+com\hotel\booking\config\HotelConfig.class
